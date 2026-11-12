@@ -818,3 +818,63 @@
   height: 941
   repo_copy: "动物参考/马/白色背景下的金饰黑马腾跃.png"
   thumb: "thumbs/prop-082.jpg"
+- id: "prop-083"
+  name: "经典飞行员墨镜产品特写-1"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1672
+  height: 941
+  repo_copy: "服饰配件/墨镜/经典飞行员墨镜产品特写-1.png"
+  thumb: "thumbs/prop-083.jpg"
+- id: "prop-084"
+  name: "极简黑色矩形太阳镜-2"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1672
+  height: 941
+  repo_copy: "服饰配件/墨镜/极简黑色矩形太阳镜-2.png"
+  thumb: "thumbs/prop-084.jpg"
+- id: "prop-085"
+  name: "复古琥珀色圆框太阳镜-3"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1774
+  height: 887
+  repo_copy: "服饰配件/墨镜/复古琥珀色圆框太阳镜-3.png"
+  thumb: "thumbs/prop-085.jpg"
+- id: "prop-086"
+  name: "极简银框灰色太阳镜-4"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1774
+  height: 887
+  repo_copy: "服饰配件/墨镜/极简银框灰色太阳镜-4.png"
+  thumb: "thumbs/prop-086.jpg"
+- id: "prop-087"
+  name: "墨绿色猫眼太阳镜-5"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1672
+  height: 941
+  repo_copy: "服饰配件/墨镜/墨绿色猫眼太阳镜-5.png"
+  thumb: "thumbs/prop-087.jpg"
+- id: "prop-088"
+  name: "酒红复古椭圆太阳镜-6"
+  category: "服饰配件"
+  subcategory: "墨镜"
+  actions: ["递墨镜", "扶镜框", "手持墨镜"]
+  framing: ["中景", "近景", "特写"]
+  width: 1671
+  height: 941
+  repo_copy: "服饰配件/墨镜/酒红复古椭圆太阳镜-6.png"
+  thumb: "thumbs/prop-088.jpg"
