@@ -1,0 +1,820 @@
+- id: "prop-001"
+  name: "六款复古华丽椭圆镜框_gbc-1"
+  category: "镜具"
+  subcategory: "桌镜与装饰镜"
+  actions: ["借镜框构图", "拍镜中表情"]
+  framing: ["中景", "近景"]
+  width: 1199
+  height: 1312
+  repo_copy: "镜具/桌镜与装饰镜/六款复古华丽椭圆镜框_gbc-1.png"
+  thumb: "thumbs/prop-001.jpg"
+- id: "prop-002"
+  name: "华丽复古金色扇形梳妆镜-6"
+  category: "镜具"
+  subcategory: "桌镜与装饰镜"
+  actions: ["借镜框构图", "拍镜中表情"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "镜具/桌镜与装饰镜/华丽复古金色扇形梳妆镜-6.png"
+  thumb: "thumbs/prop-002.jpg"
+- id: "prop-003"
+  name: "华丽巴洛克雕花落地镜-3"
+  category: "镜具"
+  subcategory: "落地镜"
+  actions: ["整理裙摆", "借全身倒影构图"]
+  framing: ["全景", "中景"]
+  width: 1041
+  height: 1511
+  repo_copy: "镜具/落地镜/华丽巴洛克雕花落地镜-3.png"
+  thumb: "thumbs/prop-003.jpg"
+- id: "prop-004"
+  name: "复古奔驰敞篷跑车人體藝術-6"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1774
+  height: 887
+  repo_copy: "环境道具/复古汽车/复古奔驰敞篷跑车人體藝術-6.png"
+  thumb: "thumbs/prop-004.jpg"
+- id: "prop-005"
+  name: "复古奔驰敞篷车写真-3"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "环境道具/复古汽车/复古奔驰敞篷车写真-3.png"
+  thumb: "thumbs/prop-005.jpg"
+- id: "prop-006"
+  name: "复古奶油色奔驰敞篷车-1"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "环境道具/复古汽车/复古奶油色奔驰敞篷车-1.png"
+  thumb: "thumbs/prop-006.jpg"
+- id: "prop-007"
+  name: "复古婚礼花篮自行车-1"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/复古婚礼花篮自行车-1.png"
+  thumb: "thumbs/prop-007.jpg"
+- id: "prop-008"
+  name: "复古婚礼花篮自行车-5"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/复古婚礼花篮自行车-5.png"
+  thumb: "thumbs/prop-008.jpg"
+- id: "prop-009"
+  name: "复古婚礼花篮自行车-6"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/复古婚礼花篮自行车-6.png"
+  thumb: "thumbs/prop-009.jpg"
+- id: "prop-010"
+  name: "复古蓝色花篮城市自行车-4"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/复古蓝色花篮城市自行车-4.png"
+  thumb: "thumbs/prop-010.jpg"
+- id: "prop-011"
+  name: "复古蕾丝花饰婚礼阳伞-1"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古阳伞/复古蕾丝花饰婚礼阳伞-1.png"
+  thumb: "thumbs/prop-011.jpg"
+- id: "prop-012"
+  name: "复古薄荷绿婚礼花篮自行车-2"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/复古薄荷绿婚礼花篮自行车-2.png"
+  thumb: "thumbs/prop-012.jpg"
+- id: "prop-013"
+  name: "复古象牙蕾丝遮阳伞"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古阳伞/复古象牙蕾丝遮阳伞.png"
+  thumb: "thumbs/prop-013.jpg"
+- id: "prop-014"
+  name: "复古金色巴洛克雕花手镜-4"
+  category: "镜具"
+  subcategory: "手镜"
+  actions: ["递手镜", "看镜中倒影"]
+  framing: ["中景", "近景"]
+  width: 1199
+  height: 1312
+  repo_copy: "镜具/手镜/复古金色巴洛克雕花手镜-4.png"
+  thumb: "thumbs/prop-014.jpg"
+- id: "prop-015"
+  name: "复古银色洛可可雕花圆镜-2"
+  category: "镜具"
+  subcategory: "桌镜与装饰镜"
+  actions: ["借镜框构图", "拍镜中表情"]
+  framing: ["中景", "近景"]
+  width: 1312
+  height: 1199
+  repo_copy: "镜具/桌镜与装饰镜/复古银色洛可可雕花圆镜-2.png"
+  thumb: "thumbs/prop-015.jpg"
+- id: "prop-016"
+  name: "复古阳伞_01"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_01.png"
+  thumb: "thumbs/prop-016.jpg"
+- id: "prop-017"
+  name: "复古阳伞_02"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_02.png"
+  thumb: "thumbs/prop-017.jpg"
+- id: "prop-018"
+  name: "复古阳伞_03"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_03.png"
+  thumb: "thumbs/prop-018.jpg"
+- id: "prop-019"
+  name: "复古阳伞_04"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_04.png"
+  thumb: "thumbs/prop-019.jpg"
+- id: "prop-020"
+  name: "复古阳伞_05"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_05.png"
+  thumb: "thumbs/prop-020.jpg"
+- id: "prop-021"
+  name: "复古阳伞_06"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_06.png"
+  thumb: "thumbs/prop-021.jpg"
+- id: "prop-022"
+  name: "复古阳伞_07"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_07.png"
+  thumb: "thumbs/prop-022.jpg"
+- id: "prop-023"
+  name: "复古阳伞_08"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_08.png"
+  thumb: "thumbs/prop-023.jpg"
+- id: "prop-024"
+  name: "复古阳伞_09"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_09.png"
+  thumb: "thumbs/prop-024.jpg"
+- id: "prop-025"
+  name: "复古阳伞_10"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_10.png"
+  thumb: "thumbs/prop-025.jpg"
+- id: "prop-026"
+  name: "复古阳伞_11"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_11.png"
+  thumb: "thumbs/prop-026.jpg"
+- id: "prop-027"
+  name: "复古阳伞_12"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 512
+  height: 512
+  repo_copy: "手持道具/复古阳伞/复古阳伞_12.png"
+  thumb: "thumbs/prop-027.jpg"
+- id: "prop-028"
+  name: "复古黑色婚礼豪车-5"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "环境道具/复古汽车/复古黑色婚礼豪车-5.png"
+  thumb: "thumbs/prop-028.jpg"
+- id: "prop-029"
+  name: "奶油桃色浪漫花束-3"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1312
+  height: 1199
+  repo_copy: "花材/手捧花/奶油桃色浪漫花束-3.png"
+  thumb: "thumbs/prop-029.jpg"
+- id: "prop-030"
+  name: "奶油白玫瑰尤加利新娘花束-2"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/手捧花/奶油白玫瑰尤加利新娘花束-2.png"
+  thumb: "thumbs/prop-030.jpg"
+- id: "prop-031"
+  name: "奶油色金毛犬全身肖像-4"
+  category: "动物参考"
+  subcategory: "狗"
+  actions: ["抚摸", "同行"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/狗/奶油色金毛犬全身肖像-4.png"
+  thumb: "thumbs/prop-031.jpg"
+- id: "prop-032"
+  name: "快乐的金毛寻回犬姿态照-2"
+  category: "动物参考"
+  subcategory: "狗"
+  actions: ["抚摸", "同行"]
+  framing: ["全景", "中景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/狗/快乐的金毛寻回犬姿态照-2.png"
+  thumb: "thumbs/prop-032.jpg"
+- id: "prop-033"
+  name: "戴墨镜蝴蝶结的萨摩耶"
+  category: "动物参考"
+  subcategory: "狗"
+  actions: ["抚摸", "同行"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/狗/戴墨镜蝴蝶结的萨摩耶.png"
+  thumb: "thumbs/prop-033.jpg"
+- id: "prop-034"
+  name: "桃橙玫瑰缎带花束-6"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/手捧花/桃橙玫瑰缎带花束-6.png"
+  thumb: "thumbs/prop-034.jpg"
+- id: "prop-035"
+  name: "浅绿背景上的钻石戒指-6"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "首饰/钻戒/浅绿背景上的钻石戒指-6.png"
+  thumb: "thumbs/prop-035.jpg"
+- id: "prop-036"
+  name: "浪漫复古粉色花篮自行车-3"
+  category: "环境道具"
+  subcategory: "花篮自行车"
+  actions: ["并肩推车", "往车篮放花"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/花篮自行车/浪漫复古粉色花篮自行车-3.png"
+  thumb: "thumbs/prop-036.jpg"
+- id: "prop-037"
+  name: "浪漫野餐篮与鲜花水果-4"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "环境道具/野餐篮/浪漫野餐篮与鲜花水果-4.png"
+  thumb: "thumbs/prop-037.jpg"
+- id: "prop-038"
+  name: "浪漫野餐篮与鲜花美食-3"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/野餐篮/浪漫野餐篮与鲜花美食-3.png"
+  thumb: "thumbs/prop-038.jpg"
+- id: "prop-039"
+  name: "深红玫瑰黑缎带新娘花束-4"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/手捧花/深红玫瑰黑缎带新娘花束-4.png"
+  thumb: "thumbs/prop-039.jpg"
+- id: "prop-040"
+  name: "深绿色经典敞篷跑车展台写真-2"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "环境道具/复古汽车/深绿色经典敞篷跑车展台写真-2.png"
+  thumb: "thumbs/prop-040.jpg"
+- id: "prop-041"
+  name: "温柔回眸的小羊-3"
+  category: "动物参考"
+  subcategory: "羊"
+  actions: ["在草地同框"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/羊/温柔回眸的小羊-3.png"
+  thumb: "thumbs/prop-041.jpg"
+- id: "prop-042"
+  name: "璀璨六爪钻石戒指-1"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "首饰/钻戒/璀璨六爪钻石戒指-1.png"
+  thumb: "thumbs/prop-042.jpg"
+- id: "prop-043"
+  name: "璀璨六爪钻石戒指-3"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "首饰/钻戒/璀璨六爪钻石戒指-3.png"
+  thumb: "thumbs/prop-043.jpg"
+- id: "prop-044"
+  name: "璀璨六爪钻石订婚戒指-2"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "首饰/钻戒/璀璨六爪钻石订婚戒指-2.png"
+  thumb: "thumbs/prop-044.jpg"
+- id: "prop-045"
+  name: "田园野餐篮与丰盛果物-1"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "环境道具/野餐篮/田园野餐篮与丰盛果物-1.png"
+  thumb: "thumbs/prop-045.jpg"
+- id: "prop-046"
+  name: "白底站立的灰白虎斑猫-1"
+  category: "动物参考"
+  subcategory: "猫"
+  actions: ["抱猫", "低头逗猫"]
+  framing: ["中景", "近景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/猫/白底站立的灰白虎斑猫-1.png"
+  thumb: "thumbs/prop-046.jpg"
+- id: "prop-047"
+  name: "白色影棚里的蓬松兔子-3"
+  category: "动物参考"
+  subcategory: "兔"
+  actions: ["蹲下观察"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/兔/白色影棚里的蓬松兔子-3.png"
+  thumb: "thumbs/prop-047.jpg"
+- id: "prop-048"
+  name: "白色背景上的棕色绒毛兔-5"
+  category: "动物参考"
+  subcategory: "兔"
+  actions: ["蹲下观察"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/兔/白色背景上的棕色绒毛兔-5.png"
+  thumb: "thumbs/prop-048.jpg"
+- id: "prop-049"
+  name: "白色背景下的可爱小羊-4"
+  category: "动物参考"
+  subcategory: "羊"
+  actions: ["在草地同框"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/羊/白色背景下的可爱小羊-4.png"
+  thumb: "thumbs/prop-049.jpg"
+- id: "prop-050"
+  name: "白色背景下的雄姿骏马-2"
+  category: "动物参考"
+  subcategory: "马"
+  actions: ["牵马同行"]
+  framing: ["远景", "全景"]
+  width: 1536
+  height: 1024
+  repo_copy: "动物参考/马/白色背景下的雄姿骏马-2.png"
+  thumb: "thumbs/prop-050.jpg"
+- id: "prop-051"
+  name: "白色骏马的极简肖像-5"
+  category: "动物参考"
+  subcategory: "马"
+  actions: ["牵马同行"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/马/白色骏马的极简肖像-5.png"
+  thumb: "thumbs/prop-051.jpg"
+- id: "prop-052"
+  name: "粉彩花瓣与金色彩纸散落背景-6"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/粉彩花瓣与金色彩纸散落背景-6.png"
+  thumb: "thumbs/prop-052.jpg"
+- id: "prop-053"
+  name: "粉白玫瑰花瓣与浪漫纸屑-1"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/粉白玫瑰花瓣与浪漫纸屑-1.png"
+  thumb: "thumbs/prop-053.jpg"
+- id: "prop-054"
+  name: "粉色背景下的闪耀钻戒-5"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1672
+  height: 941
+  repo_copy: "首饰/钻戒/粉色背景下的闪耀钻戒-5.png"
+  thumb: "thumbs/prop-054.jpg"
+- id: "prop-055"
+  name: "精致野餐篮与鲜花美食-2"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "环境道具/野餐篮/精致野餐篮与鲜花美食-2.png"
+  thumb: "thumbs/prop-055.jpg"
+- id: "prop-056"
+  name: "紫罗兰花瓣与银色彩纸屑-4"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/紫罗兰花瓣与银色彩纸屑-4.png"
+  thumb: "thumbs/prop-056.jpg"
+- id: "prop-057"
+  name: "红白玫瑰花瓣散落特写-2"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/红白玫瑰花瓣散落特写-2.png"
+  thumb: "thumbs/prop-057.jpg"
+- id: "prop-058"
+  name: "维多利亚风格华丽黑色雕花镜-5"
+  category: "镜具"
+  subcategory: "桌镜与装饰镜"
+  actions: ["借镜框构图", "拍镜中表情"]
+  framing: ["中景", "近景"]
+  width: 1194
+  height: 1317
+  repo_copy: "镜具/桌镜与装饰镜/维多利亚风格华丽黑色雕花镜-5.png"
+  thumb: "thumbs/prop-058.jpg"
+- id: "prop-059"
+  name: "自然风野餐篮静物-5"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "环境道具/野餐篮/自然风野餐篮静物-5.png"
+  thumb: "thumbs/prop-059.jpg"
+- id: "prop-060"
+  name: "蓝白花瓣与彩纸静物-5"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/蓝白花瓣与彩纸静物-5.png"
+  thumb: "thumbs/prop-060.jpg"
+- id: "prop-061"
+  name: "蓝色背景上的璀璨钻石扭纹戒指-4"
+  category: "首饰"
+  subcategory: "钻戒"
+  actions: ["戴戒指", "牵手展示"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "首饰/钻戒/蓝色背景上的璀璨钻石扭纹戒指-4.png"
+  thumb: "thumbs/prop-061.jpg"
+- id: "prop-062"
+  name: "薰衣草紫调浪漫新娘花束-5"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1312
+  height: 1199
+  repo_copy: "花材/手捧花/薰衣草紫调浪漫新娘花束-5.png"
+  thumb: "thumbs/prop-062.jpg"
+- id: "prop-063"
+  name: "藤编野餐篮与鲜花美食-6"
+  category: "环境道具"
+  subcategory: "野餐篮"
+  actions: ["一起开篮", "递水果", "铺餐布"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "环境道具/野餐篮/藤编野餐篮与鲜花美食-6.png"
+  thumb: "thumbs/prop-063.jpg"
+- id: "prop-064"
+  name: "象牙丝带白粉玫瑰花束-1"
+  category: "花材"
+  subcategory: "手捧花"
+  actions: ["递花", "整理缎带", "低头闻花"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/手捧花/象牙丝带白粉玫瑰花束-1.png"
+  thumb: "thumbs/prop-064.jpg"
+- id: "prop-065"
+  name: "象牙蕾丝珍珠复古阳伞-6"
+  category: "手持道具"
+  subcategory: "复古阳伞"
+  actions: ["共撑", "压低伞沿", "从伞下探头"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古阳伞/象牙蕾丝珍珠复古阳伞-6.png"
+  thumb: "thumbs/prop-065.jpg"
+- id: "prop-066"
+  name: "酒红色复古敞篷跑车娱乐官方网站-4"
+  category: "环境道具"
+  subcategory: "复古汽车"
+  actions: ["扶车门", "上下车", "倚车交谈"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "环境道具/复古汽车/酒红色复古敞篷跑车娱乐官方网站-4.png"
+  thumb: "thumbs/prop-066.jpg"
+- id: "prop-067"
+  name: "金橙花瓣与金色彩屑-3"
+  category: "花材"
+  subcategory: "花瓣与彩屑"
+  actions: ["撒花瓣", "接花瓣"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "花材/花瓣与彩屑/金橙花瓣与金色彩屑-3.png"
+  thumb: "thumbs/prop-067.jpg"
+- id: "prop-068"
+  name: "银灰虎斑猫白底肖像-1"
+  category: "动物参考"
+  subcategory: "猫"
+  actions: ["抱猫", "低头逗猫"]
+  framing: ["中景", "近景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/猫/银灰虎斑猫白底肖像-1.png"
+  thumb: "thumbs/prop-068.jpg"
+- id: "prop-069"
+  name: "华丽金饰复古蓝色信封-4"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/华丽金饰复古蓝色信封-4.png"
+  thumb: "thumbs/prop-069.jpg"
+- id: "prop-070"
+  name: "古典金饰深红天鹅绒书籍-4"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/古典金饰深红天鹅绒书籍-4.png"
+  thumb: "thumbs/prop-070.jpg"
+- id: "prop-071"
+  name: "古典金饰皮革书籍-2"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/古典金饰皮革书籍-2.png"
+  thumb: "thumbs/prop-071.jpg"
+- id: "prop-072"
+  name: "复古玫瑰蜡封信封-5"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/复古玫瑰蜡封信封-5.png"
+  thumb: "thumbs/prop-072.jpg"
+- id: "prop-073"
+  name: "复古蓝色巴洛克装饰书籍-5"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/复古蓝色巴洛克装饰书籍-5.png"
+  thumb: "thumbs/prop-073.jpg"
+- id: "prop-074"
+  name: "复古金饰玫瑰婚礼信封-1"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/复古金饰玫瑰婚礼信封-1.png"
+  thumb: "thumbs/prop-074.jpg"
+- id: "prop-075"
+  name: "复古金饰红色古书-1"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/复古金饰红色古书-1.png"
+  thumb: "thumbs/prop-075.jpg"
+- id: "prop-076"
+  name: "复古鎏金花饰精装书-6"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/复古鎏金花饰精装书-6.png"
+  thumb: "thumbs/prop-076.jpg"
+- id: "prop-077"
+  name: "复古银金丝花纹蜡封信封-6"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/复古银金丝花纹蜡封信封-6.png"
+  thumb: "thumbs/prop-077.jpg"
+- id: "prop-078"
+  name: "深绿金箔巴洛克花饰信封-3"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/深绿金箔巴洛克花饰信封-3.png"
+  thumb: "thumbs/prop-078.jpg"
+- id: "prop-079"
+  name: "深绿鎏金古典精装书-3"
+  category: "手持道具"
+  subcategory: "复古书籍"
+  actions: ["并肩翻书", "指给对方看"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/复古书籍/深绿鎏金古典精装书-3.png"
+  thumb: "thumbs/prop-079.jpg"
+- id: "prop-080"
+  name: "酒红丝绒鎏金花饰信封-2"
+  category: "手持道具"
+  subcategory: "婚礼信封"
+  actions: ["递信", "揭开蜡封"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "手持道具/婚礼信封/酒红丝绒鎏金花饰信封-2.png"
+  thumb: "thumbs/prop-080.jpg"
+- id: "prop-081"
+  name: "白底黑马与皮革马具"
+  category: "动物参考"
+  subcategory: "马"
+  actions: ["牵马同行"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/马/白底黑马与皮革马具.png"
+  thumb: "thumbs/prop-081.jpg"
+- id: "prop-082"
+  name: "白色背景下的金饰黑马腾跃"
+  category: "动物参考"
+  subcategory: "马"
+  actions: ["牵马同行"]
+  framing: ["远景", "全景"]
+  width: 1672
+  height: 941
+  repo_copy: "动物参考/马/白色背景下的金饰黑马腾跃.png"
+  thumb: "thumbs/prop-082.jpg"
