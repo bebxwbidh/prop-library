@@ -1318,3 +1318,153 @@
   height: 1024
   repo_copy: "服饰配件/婚鞋/象牙白珍珠蕾丝婚鞋-1.png"
   thumb: "thumbs/prop-132.jpg"
+- id: "prop-133"
+  name: "复古象牙白珍珠花饰鸟笼头纱-6"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/复古象牙白珍珠花饰鸟笼头纱-6.png"
+  thumb: "thumbs/prop-133.jpg"
+- id: "prop-134"
+  name: "象牙白缎带蝴蝶结多层头纱-5"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/象牙白缎带蝴蝶结多层头纱-5.png"
+  thumb: "thumbs/prop-134.jpg"
+- id: "prop-135"
+  name: "象牙白花卉蕾丝头纱展陈-4"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/象牙白花卉蕾丝头纱展陈-4.png"
+  thumb: "thumbs/prop-135.jpg"
+- id: "prop-136"
+  name: "珍珠点缀的层叠婚纱头纱-3"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/珍珠点缀的层叠婚纱头纱-3.png"
+  thumb: "thumbs/prop-136.jpg"
+- id: "prop-137"
+  name: "精致花边新娘头纱展示-2"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/精致花边新娘头纱展示-2.png"
+  thumb: "thumbs/prop-137.jpg"
+- id: "prop-138"
+  name: "象牙白层叠婚纱头纱展示-1"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1312
+  height: 1199
+  repo_copy: "服饰配件/头纱/象牙白层叠婚纱头纱展示-1.png"
+  thumb: "thumbs/prop-138.jpg"
+- id: "prop-139"
+  name: "星月闪耀的梦幻新娘头纱-6"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/头纱/星月闪耀的梦幻新娘头纱-6.png"
+  thumb: "thumbs/prop-139.jpg"
+- id: "prop-140"
+  name: "象牙白花卉刺绣长款头纱-5"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/头纱/象牙白花卉刺绣长款头纱-5.png"
+  thumb: "thumbs/prop-140.jpg"
+- id: "prop-141"
+  name: "羽翼轻纱婚礼头纱展陈-4"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/羽翼轻纱婚礼头纱展陈-4.png"
+  thumb: "thumbs/prop-141.jpg"
+- id: "prop-142"
+  name: "白纱花藤刺绣长头纱-3"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/白纱花藤刺绣长头纱-3.png"
+  thumb: "thumbs/prop-142.jpg"
+- id: "prop-143"
+  name: "珍珠流苏瀑布式新娘头纱-2"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/珍珠流苏瀑布式新娘头纱-2.png"
+  thumb: "thumbs/prop-143.jpg"
+- id: "prop-144"
+  name: "星光流瀑婚纱头纱-1"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/星光流瀑婚纱头纱-1.png"
+  thumb: "thumbs/prop-144.jpg"
+- id: "prop-145"
+  name: "蝴蝶珍珠梦幻婚纱头纱"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1199
+  height: 1312
+  repo_copy: "服饰配件/头纱/蝴蝶珍珠梦幻婚纱头纱.png"
+  thumb: "thumbs/prop-145.jpg"
+- id: "prop-146"
+  name: "星光闪耀的教堂式婚纱头纱-4"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/星光闪耀的教堂式婚纱头纱-4.png"
+  thumb: "thumbs/prop-146.jpg"
+- id: "prop-147"
+  name: "闪耀水晶长款新娘头纱-3"
+  category: "服饰配件"
+  subcategory: "头纱"
+  actions: ["披头纱", "头纱飞扬", "揭开头纱"]
+  framing: ["全景", "中景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/头纱/闪耀水晶长款新娘头纱-3.png"
+  thumb: "thumbs/prop-147.jpg"
