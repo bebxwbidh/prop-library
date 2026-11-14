@@ -1198,3 +1198,123 @@
   height: 337
   repo_copy: "服饰配件/女生帽子/淡粉羊毛贝雷帽蝴蝶刺绣.png"
   thumb: "thumbs/prop-120.jpg"
+- id: "prop-121"
+  name: "象牙色缎面珍珠扣高跟鞋-6"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/象牙色缎面珍珠扣高跟鞋-6.png"
+  thumb: "thumbs/prop-121.jpg"
+- id: "prop-122"
+  name: "象牙色蕾丝珍珠高跟鞋-5"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/婚鞋/象牙色蕾丝珍珠高跟鞋-5.png"
+  thumb: "thumbs/prop-122.jpg"
+- id: "prop-123"
+  name: "象牙缎面水钻婚鞋-4"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/婚鞋/象牙缎面水钻婚鞋-4.png"
+  thumb: "thumbs/prop-123.jpg"
+- id: "prop-124"
+  name: "象牙蕾丝水晶婚鞋-3"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/婚鞋/象牙蕾丝水晶婚鞋-3.png"
+  thumb: "thumbs/prop-124.jpg"
+- id: "prop-125"
+  name: "珍珠蝴蝶结婚礼高跟鞋-2"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/婚鞋/珍珠蝴蝶结婚礼高跟鞋-2.png"
+  thumb: "thumbs/prop-125.jpg"
+- id: "prop-126"
+  name: "象牙色珍珠蕾丝婚鞋-1"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1448
+  height: 1086
+  repo_copy: "服饰配件/婚鞋/象牙色珍珠蕾丝婚鞋-1.png"
+  thumb: "thumbs/prop-126.jpg"
+- id: "prop-127"
+  name: "象牙蕾丝水晶婚鞋-6"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/象牙蕾丝水晶婚鞋-6.png"
+  thumb: "thumbs/prop-127.jpg"
+- id: "prop-128"
+  name: "白色缎面珍珠蝴蝶结高跟鞋-5"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/白色缎面珍珠蝴蝶结高跟鞋-5.png"
+  thumb: "thumbs/prop-128.jpg"
+- id: "prop-129"
+  name: "珍珠水晶花饰银色高跟鞋-4"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/珍珠水晶花饰银色高跟鞋-4.png"
+  thumb: "thumbs/prop-129.jpg"
+- id: "prop-130"
+  name: "香槟金缎面珍珠水晶高跟鞋-3"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/香槟金缎面珍珠水晶高跟鞋-3.png"
+  thumb: "thumbs/prop-130.jpg"
+- id: "prop-131"
+  name: "象牙白蕾丝水晶婚鞋-2"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/象牙白蕾丝水晶婚鞋-2.png"
+  thumb: "thumbs/prop-131.jpg"
+- id: "prop-132"
+  name: "象牙白珍珠蕾丝婚鞋-1"
+  category: "服饰配件"
+  subcategory: "婚鞋"
+  actions: ["手提婚鞋", "俯身换鞋", "脚尖点地"]
+  framing: ["近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/婚鞋/象牙白珍珠蕾丝婚鞋-1.png"
+  thumb: "thumbs/prop-132.jpg"
