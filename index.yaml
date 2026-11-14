@@ -998,3 +998,203 @@
   height: 1024
   repo_copy: "服饰配件/渔夫帽/米色帆布渔夫帽产品照-7.png"
   thumb: "thumbs/prop-100.jpg"
+- id: "prop-101"
+  name: "黑色宽檐蝴蝶结礼帽-4"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/黑色宽檐蝴蝶结礼帽-4.png"
+  thumb: "thumbs/prop-101.jpg"
+- id: "prop-102"
+  name: "奶油花饰草编宽檐帽-3"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/奶油花饰草编宽檐帽-3.png"
+  thumb: "thumbs/prop-102.jpg"
+- id: "prop-103"
+  name: "草编宽檐花饰遮阳帽-2"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/草编宽檐花饰遮阳帽-2.png"
+  thumb: "thumbs/prop-103.jpg"
+- id: "prop-104"
+  name: "象牙白羊毛贝雷帽-1"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/象牙白羊毛贝雷帽-1.png"
+  thumb: "thumbs/prop-104.jpg"
+- id: "prop-105"
+  name: "棕色灯芯绒报童帽-8"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/棕色灯芯绒报童帽-8.png"
+  thumb: "thumbs/prop-105.jpg"
+- id: "prop-106"
+  name: "淡粉珍珠花饰礼帽-7"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/淡粉珍珠花饰礼帽-7.png"
+  thumb: "thumbs/prop-106.jpg"
+- id: "prop-107"
+  name: "酒红色丝绒花饰礼帽-6"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/酒红色丝绒花饰礼帽-6.png"
+  thumb: "thumbs/prop-107.jpg"
+- id: "prop-108"
+  name: "奶油色纱带蝴蝶结草编遮阳帽-5"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/女生帽子/奶油色纱带蝴蝶结草编遮阳帽-5.png"
+  thumb: "thumbs/prop-108.jpg"
+- id: "prop-109"
+  name: "米色草编毛边蝴蝶结宽檐帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 337
+  repo_copy: "服饰配件/女生帽子/米色草编毛边蝴蝶结宽檐帽.png"
+  thumb: "thumbs/prop-109.jpg"
+- id: "prop-110"
+  name: "象牙白毛呢花朵钟形帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 337
+  repo_copy: "服饰配件/女生帽子/象牙白毛呢花朵钟形帽.png"
+  thumb: "thumbs/prop-110.jpg"
+- id: "prop-111"
+  name: "黑色羊毛贝雷帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 337
+  repo_copy: "服饰配件/女生帽子/黑色羊毛贝雷帽.png"
+  thumb: "thumbs/prop-111.jpg"
+- id: "prop-112"
+  name: "深棕毛呢皮质扣带礼帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 337
+  repo_copy: "服饰配件/女生帽子/深棕毛呢皮质扣带礼帽.png"
+  thumb: "thumbs/prop-112.jpg"
+- id: "prop-113"
+  name: "象牙白花朵网纱礼帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 334
+  repo_copy: "服饰配件/女生帽子/象牙白花朵网纱礼帽.png"
+  thumb: "thumbs/prop-113.jpg"
+- id: "prop-114"
+  name: "酒红毛呢蝴蝶结钟形帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 334
+  repo_copy: "服饰配件/女生帽子/酒红毛呢蝴蝶结钟形帽.png"
+  thumb: "thumbs/prop-114.jpg"
+- id: "prop-115"
+  name: "米色平顶草编礼帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 334
+  repo_copy: "服饰配件/女生帽子/米色平顶草编礼帽.png"
+  thumb: "thumbs/prop-115.jpg"
+- id: "prop-116"
+  name: "米白镂空钩花针织渔夫帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 334
+  repo_copy: "服饰配件/女生帽子/米白镂空钩花针织渔夫帽.png"
+  thumb: "thumbs/prop-116.jpg"
+- id: "prop-117"
+  name: "浅蓝做旧牛仔棒球帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 337
+  repo_copy: "服饰配件/女生帽子/浅蓝做旧牛仔棒球帽.png"
+  thumb: "thumbs/prop-117.jpg"
+- id: "prop-118"
+  name: "米白仿皮草毛绒贝雷帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 337
+  repo_copy: "服饰配件/女生帽子/米白仿皮草毛绒贝雷帽.png"
+  thumb: "thumbs/prop-118.jpg"
+- id: "prop-119"
+  name: "黑色网纱花朵礼帽"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 376
+  height: 337
+  repo_copy: "服饰配件/女生帽子/黑色网纱花朵礼帽.png"
+  thumb: "thumbs/prop-119.jpg"
+- id: "prop-120"
+  name: "淡粉羊毛贝雷帽蝴蝶刺绣"
+  category: "服饰配件"
+  subcategory: "女生帽子"
+  actions: ["戴帽回眸", "扶帽檐", "手持帽子"]
+  framing: ["中景", "近景", "特写"]
+  width: 380
+  height: 337
+  repo_copy: "服饰配件/女生帽子/淡粉羊毛贝雷帽蝴蝶刺绣.png"
+  thumb: "thumbs/prop-120.jpg"
