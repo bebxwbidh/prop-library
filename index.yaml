@@ -878,3 +878,123 @@
   height: 941
   repo_copy: "服饰配件/墨镜/酒红复古椭圆太阳镜-6.png"
   thumb: "thumbs/prop-088.jpg"
+- id: "prop-089"
+  name: "黑色缎带毡呢爵士帽-5"
+  category: "服饰配件"
+  subcategory: "礼帽"
+  actions: ["戴帽回眸", "扶帽檐", "摘帽致意"]
+  framing: ["中景", "近景"]
+  width: 1672
+  height: 941
+  repo_copy: "服饰配件/礼帽/黑色缎带毡呢爵士帽-5.png"
+  thumb: "thumbs/prop-089.jpg"
+- id: "prop-090"
+  name: "黑色宽檐羊毛礼帽展示-6"
+  category: "服饰配件"
+  subcategory: "礼帽"
+  actions: ["戴帽回眸", "扶帽檐", "摘帽致意"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/礼帽/黑色宽檐羊毛礼帽展示-6.png"
+  thumb: "thumbs/prop-090.jpg"
+- id: "prop-091"
+  name: "深棕色羊毛贝雷帽产品特写-4"
+  category: "服饰配件"
+  subcategory: "贝雷帽"
+  actions: ["歪戴贝雷帽", "扶帽顶", "低头摘帽"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/贝雷帽/深棕色羊毛贝雷帽产品特写-4.png"
+  thumb: "thumbs/prop-091.jpg"
+- id: "prop-092"
+  name: "深棕色羊毛贝雷帽特写-3"
+  category: "服饰配件"
+  subcategory: "贝雷帽"
+  actions: ["歪戴贝雷帽", "扶帽顶", "低头摘帽"]
+  framing: ["中景", "近景", "特写"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/贝雷帽/深棕色羊毛贝雷帽特写-3.png"
+  thumb: "thumbs/prop-092.jpg"
+- id: "prop-093"
+  name: "深灰羊毛棒球帽产品特写-2"
+  category: "服饰配件"
+  subcategory: "棒球帽"
+  actions: ["压低帽檐", "反戴棒球帽", "递帽给对方"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/棒球帽/深灰羊毛棒球帽产品特写-2.png"
+  thumb: "thumbs/prop-093.jpg"
+- id: "prop-094"
+  name: "深灰洗水棒球帽产品特写-1"
+  category: "服饰配件"
+  subcategory: "棒球帽"
+  actions: ["压低帽檐", "反戴棒球帽", "递帽给对方"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/棒球帽/深灰洗水棒球帽产品特写-1.png"
+  thumb: "thumbs/prop-094.jpg"
+- id: "prop-095"
+  name: "深蓝粗花呢八片报童帽-11"
+  category: "服饰配件"
+  subcategory: "报童帽与平顶帽"
+  actions: ["扶帽檐", "并肩侧头", "摘帽致意"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/报童帽与平顶帽/深蓝粗花呢八片报童帽-11.png"
+  thumb: "thumbs/prop-095.jpg"
+- id: "prop-096"
+  name: "海军蓝人字纹羊毛平顶帽-10"
+  category: "服饰配件"
+  subcategory: "报童帽与平顶帽"
+  actions: ["扶帽檐", "并肩侧头", "摘帽致意"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/报童帽与平顶帽/海军蓝人字纹羊毛平顶帽-10.png"
+  thumb: "thumbs/prop-096.jpg"
+- id: "prop-097"
+  name: "自然草编巴拿马礼帽-12"
+  category: "服饰配件"
+  subcategory: "巴拿马草帽"
+  actions: ["戴帽遮阳", "扶宽檐", "手持草帽"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/巴拿马草帽/自然草编巴拿马礼帽-12.png"
+  thumb: "thumbs/prop-097.jpg"
+- id: "prop-098"
+  name: "米色编织巴拿马宽檐帽-9"
+  category: "服饰配件"
+  subcategory: "巴拿马草帽"
+  actions: ["戴帽遮阳", "扶宽檐", "手持草帽"]
+  framing: ["全景", "中景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/巴拿马草帽/米色编织巴拿马宽檐帽-9.png"
+  thumb: "thumbs/prop-098.jpg"
+- id: "prop-099"
+  name: "卡其色帆布渔夫帽-恒一-8"
+  category: "服饰配件"
+  subcategory: "渔夫帽"
+  actions: ["压低帽檐", "戴帽低头", "手中拿帽"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/渔夫帽/卡其色帆布渔夫帽-恒一-8.png"
+  thumb: "thumbs/prop-099.jpg"
+- id: "prop-100"
+  name: "米色帆布渔夫帽产品照-7"
+  category: "服饰配件"
+  subcategory: "渔夫帽"
+  actions: ["压低帽檐", "戴帽低头", "手中拿帽"]
+  framing: ["中景", "近景"]
+  width: 1536
+  height: 1024
+  repo_copy: "服饰配件/渔夫帽/米色帆布渔夫帽产品照-7.png"
+  thumb: "thumbs/prop-100.jpg"
