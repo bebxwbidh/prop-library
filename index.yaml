@@ -1468,3 +1468,103 @@
   height: 1086
   repo_copy: "服饰配件/头纱/闪耀水晶长款新娘头纱-3.png"
   thumb: "thumbs/prop-147.jpg"
+- id: "prop-148"
+  name: "男士复古工装造型-雪山公路"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["倚车并肩", "整理衣襟", "仰头看天"]
+  framing: ["全景", "中景"]
+  width: 477
+  height: 1170
+  repo_copy: "服装资产/男装/男士复古工装造型-雪山公路.jpg"
+  thumb: "thumbs/prop-148.jpg"
+- id: "prop-149"
+  name: "黑水洗牛仔夹克"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 370
+  height: 530
+  repo_copy: "服装资产/男装/黑水洗牛仔夹克.jpg"
+  thumb: "thumbs/prop-149.jpg"
+- id: "prop-150"
+  name: "白棉T恤-银链"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 240
+  height: 315
+  repo_copy: "服装资产/男装/白棉T恤-银链.jpg"
+  thumb: "thumbs/prop-150.jpg"
+- id: "prop-151"
+  name: "棕阔腿工装裤-红方巾"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 450
+  height: 505
+  repo_copy: "服装资产/男装/棕阔腿工装裤-红方巾.jpg"
+  thumb: "thumbs/prop-151.jpg"
+- id: "prop-152"
+  name: "姜黄工装靴"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 215
+  height: 225
+  repo_copy: "服装资产/男装/姜黄工装靴.jpg"
+  thumb: "thumbs/prop-152.jpg"
+- id: "prop-153"
+  name: "女士西部波西米亚造型-雪山公路"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["倚车站立", "提裙转身", "扶帽回眸"]
+  framing: ["全景", "中景"]
+  width: 516
+  height: 990
+  repo_copy: "服装资产/女装/女士西部波西米亚造型-雪山公路.jpg"
+  thumb: "thumbs/prop-153.jpg"
+- id: "prop-154"
+  name: "棕宽檐牛仔帽-墨镜"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 245
+  height: 200
+  repo_copy: "服装资产/女装/棕宽檐牛仔帽-墨镜.jpg"
+  thumb: "thumbs/prop-154.jpg"
+- id: "prop-155"
+  name: "咖色做旧皮夹克"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 360
+  height: 450
+  repo_copy: "服装资产/女装/咖色做旧皮夹克.jpg"
+  thumb: "thumbs/prop-155.jpg"
+- id: "prop-156"
+  name: "白蕾丝不对称长裙"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 332
+  height: 392
+  repo_copy: "服装资产/女装/白蕾丝不对称长裙.jpg"
+  thumb: "thumbs/prop-156.jpg"
+- id: "prop-157"
+  name: "深棕中筒皮靴"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["上身展示", "手插口袋", "局部特写"]
+  framing: ["中景", "近景"]
+  width: 270
+  height: 272
+  repo_copy: "服装资产/女装/深棕中筒皮靴.jpg"
+  thumb: "thumbs/prop-157.jpg"
