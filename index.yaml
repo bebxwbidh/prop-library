@@ -1568,3 +1568,83 @@
   height: 272
   repo_copy: "服装资产/女装/深棕中筒皮靴.jpg"
   thumb: "thumbs/prop-157.jpg"
+- id: "prop-158"
+  name: "象牙白花卉蕾丝婚纱展陈-4"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["试穿展示", "提裙转身", "整理裙摆"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "服装资产/女装/象牙白花卉蕾丝婚纱展陈-4.png"
+  thumb: "thumbs/prop-158.jpg"
+- id: "prop-159"
+  name: "华丽象牙白婚纱礼服-3"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["试穿展示", "提裙转身", "整理裙摆"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "服装资产/女装/华丽象牙白婚纱礼服-3.png"
+  thumb: "thumbs/prop-159.jpg"
+- id: "prop-160"
+  name: "象牙白立体花瓣婚纱-2"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["试穿展示", "提裙转身", "整理裙摆"]
+  framing: ["全景", "中景"]
+  width: 1312
+  height: 1199
+  repo_copy: "服装资产/女装/象牙白立体花瓣婚纱-2.png"
+  thumb: "thumbs/prop-160.jpg"
+- id: "prop-161"
+  name: "梦幻花卉蕾丝婚纱-1"
+  category: "服装资产"
+  subcategory: "女装"
+  actions: ["试穿展示", "提裙转身", "整理裙摆"]
+  framing: ["全景", "中景"]
+  width: 1086
+  height: 1448
+  repo_copy: "服装资产/女装/梦幻花卉蕾丝婚纱-1.png"
+  thumb: "thumbs/prop-161.jpg"
+- id: "prop-162"
+  name: "经典黑色燕尾礼服展示"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["整装站立", "扣上西装扣", "插胸袋巾"]
+  framing: ["全景", "中景"]
+  width: 1086
+  height: 1448
+  repo_copy: "服装资产/男装/经典黑色燕尾礼服展示.png"
+  thumb: "thumbs/prop-162.jpg"
+- id: "prop-163"
+  name: "极简灰背景男士燕尾礼服展示-4"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["整装站立", "扣上西装扣", "插胸袋巾"]
+  framing: ["全景", "中景"]
+  width: 1086
+  height: 1448
+  repo_copy: "服装资产/男装/极简灰背景男士燕尾礼服展示-4.png"
+  thumb: "thumbs/prop-163.jpg"
+- id: "prop-164"
+  name: "香槟色缎面礼服套装-3"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["整装站立", "扣上西装扣", "插胸袋巾"]
+  framing: ["全景", "中景"]
+  width: 1086
+  height: 1448
+  repo_copy: "服装资产/男装/香槟色缎面礼服套装-3.png"
+  thumb: "thumbs/prop-164.jpg"
+- id: "prop-165"
+  name: "象牙白礼服与黑色领结展示-2"
+  category: "服装资产"
+  subcategory: "男装"
+  actions: ["整装站立", "扣上西装扣", "插胸袋巾"]
+  framing: ["全景", "中景"]
+  width: 1086
+  height: 1448
+  repo_copy: "服装资产/男装/象牙白礼服与黑色领结展示-2.png"
+  thumb: "thumbs/prop-165.jpg"
